@@ -2,7 +2,12 @@ body {
   background-color: #ffcccc;
 }
 
+img {
+	float: center;
+}
+
 .name { 
+	clear:both;
   text-align: center;
   font-family: "Optima", sans-serif;
   font-size: 500%;
@@ -10,16 +15,18 @@ body {
   text-decoration: underline;
 }
 .family {
-  text-align: left;
+  clear: both;
   font-family: "Optima", sans-serif;
   font-weight: 100
 }
 .passions {
+	clear: both;
   text-align: right;
   font-family: "Optima", sans-serif;
   font-weight: 100
 }
 .fun_facts {
+	clear: both;
   text-align: center;
   font-family: "Optima", sans-serif;
   font-weight: 100
