@@ -1,0 +1,26 @@
+body {
+  background-color: #ffcccc;
+}
+
+.name { 
+  text-align: center;
+  font-family: "Optima", sans-serif;
+  font-size: 500%;
+  font-weight: 100;
+  text-decoration: underline;
+}
+.family {
+  text-align: left;
+  font-family: "Optima", sans-serif;
+  font-weight: 100
+}
+.passions {
+  text-align: right;
+  font-family: "Optima", sans-serif;
+  font-weight: 100
+}
+.fun_facts {
+  text-align: center;
+  font-family: "Optima", sans-serif;
+  font-weight: 100
+}
