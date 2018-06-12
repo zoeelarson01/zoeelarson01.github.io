@@ -3,7 +3,13 @@ body {
 }
 
 img {
-	float: center;
+  float: center;
+  width: 60%;
+}
+
+.ad-right{
+  float: right;
+  margin-left: 10px;
 }
 
 .name { 
@@ -14,13 +20,15 @@ img {
   font-weight: 100;
   text-decoration: underline;
 }
-.family {
-  clear: both;
+.box {
+  float: left;
+  width: 31.5%;
   font-family: "Optima", sans-serif;
   font-weight: 100
 }
-.passions {
-	clear: both;
+.box2 {
+	float: right;
+  width: 70%;
   text-align: right;
   font-family: "Optima", sans-serif;
   font-weight: 100
